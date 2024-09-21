@@ -270,8 +270,7 @@ Here’s how you might use the model in practice:
 
    Example:
       User: Question: What are the terms of the contract?
-      AI:    ```markdown
-   Summarization  
+      AI: Summarization  
    This text outlines the terms and conditions of a legal contract, specifying the rights and obligations of the parties involved.
 
    Classification
@@ -283,8 +282,7 @@ Here’s how you might use the model in practice:
 
    - **Explanation:** The text discusses a legally binding agreement between parties, fitting the Contracts category.  
    - **Handling of Ambiguity:** The content is clear and directly related to contract terms, with no ambiguous elements present.
-   ```
-
+   
 ### Example Usage
 
 1. **Input Document:**  
